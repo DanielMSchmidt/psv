@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-parallax-content-slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-14 14:47+0100\n"
+"PO-Revision-Date: 2012-09-14 14:47+0100\n"
+"Last-Translator: MBA Multimedia <mbamultimedia@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\Users\\julien.le.thuaut\\Documents\\EasyPHP-5.3.9\\www\\w3d\\wp-content\\plugins\\wp-parallax-content-slider\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:230
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:231
+#: ../wp-parallax-content-slider.php:230
+#: ../wp-parallax-content-slider.php:231
+msgid "WP Parallax Content Slider"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:245
+#: ../wp-parallax-content-slider.php:245
+msgid "No access"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:258
+#: ../wp-parallax-content-slider.php:258
+msgid "Incorrect slider mode"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:263
+#: ../wp-parallax-content-slider.php:263
+msgid "Incorrect slider theme"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:268
+#: ../wp-parallax-content-slider.php:268
+msgid "Incorrect background increment pixel size"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:273
+#: ../wp-parallax-content-slider.php:273
+msgid "Incorrect time interval"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:279
+#: ../wp-parallax-content-slider.php:279
+msgid "Incorrect first slide number"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:286
+#: ../wp-parallax-content-slider.php:286
+msgid "Incorrect maximum slide number"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:291
+#: ../wp-parallax-content-slider.php:291
+msgid "Incorrect maximum title length"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:296
+#: ../wp-parallax-content-slider.php:296
+msgid "Incorrect default image"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:325
+#: ../wp-parallax-content-slider.php:325
+msgid "Settings updated"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:329
+#: ../wp-parallax-content-slider.php:329
+msgid "Settings update failed:"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:375
+#: ../wp-parallax-content-slider.php:375
+msgid "WP Parallax Content Slider Settings"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:377
+#: ../wp-parallax-content-slider.php:377
+msgid "Code to insert"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:378
+#: ../wp-parallax-content-slider.php:378
+msgid "The code below must be inserted in a Wordpress file, where you want to display the parallax content slider:"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:393
+#: ../wp-parallax-content-slider.php:393
+msgid "General Display Options"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:397
+#: ../wp-parallax-content-slider.php:397
+msgid "Slider display mode"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:400
+#: ../wp-parallax-content-slider.php:400
+msgid "Dynamic : display last posts"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:401
+#: ../wp-parallax-content-slider.php:401
+msgid "Static : display static HTML content"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:407
+#: ../wp-parallax-content-slider.php:407
+msgid "Number of pixels for background increment"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:410
+#: ../wp-parallax-content-slider.php:410
+msgid "A negative value will invert the parallax effect"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:415
+#: ../wp-parallax-content-slider.php:415
+msgid "Auto-play mode"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:418
+#: ../wp-parallax-content-slider.php:418
+msgid "Activate auto-play"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:423
+#: ../wp-parallax-content-slider.php:423
+msgid "Time between each slide (in ms)"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:430
+#: ../wp-parallax-content-slider.php:430
+msgid "Slider theme"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:433
+#: ../wp-parallax-content-slider.php:433
+msgid "Default : Yellow waves"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:434
+#: ../wp-parallax-content-slider.php:434
+msgid "Dark"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:435
+#: ../wp-parallax-content-slider.php:435
+msgid "Retro Red"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:436
+#: ../wp-parallax-content-slider.php:436
+msgid "Silver"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:446
+#: ../wp-parallax-content-slider.php:446
+msgid "Static Mode Display Options"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:450
+#: ../wp-parallax-content-slider.php:450
+msgid "Index of the first slide to display"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:461
+#: ../wp-parallax-content-slider.php:461
+msgid "Dynamic Mode Display Options"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:465
+#: ../wp-parallax-content-slider.php:465
+msgid "Number of articles to display"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:468
+#: ../wp-parallax-content-slider.php:468
+msgid "Maximum number of articles to display in the dynamic slider"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:473
+#: ../wp-parallax-content-slider.php:473
+msgid "Sort posts by"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:476
+#: ../wp-parallax-content-slider.php:476
+msgid "Date"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:477
+#: ../wp-parallax-content-slider.php:477
+msgid "Random"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:478
+#: ../wp-parallax-content-slider.php:478
+msgid "Title"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:479
+#: ../wp-parallax-content-slider.php:479
+msgid "Author"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:480
+#: ../wp-parallax-content-slider.php:480
+msgid "Number of comments"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:481
+#: ../wp-parallax-content-slider.php:481
+msgid "Last modified date"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:483
+#: ../wp-parallax-content-slider.php:483
+msgid "Choose how do you want to sort the posts in the slider"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:488
+#: ../wp-parallax-content-slider.php:488
+msgid "Sort order"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:491
+#: ../wp-parallax-content-slider.php:491
+msgid "Ascending"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:492
+#: ../wp-parallax-content-slider.php:492
+msgid "Descending"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:494
+#: ../wp-parallax-content-slider.php:494
+msgid "Choose how do you want to order the posts in the slider"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:499
+#: ../wp-parallax-content-slider.php:499
+msgid "Category filter"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:502
+#: ../wp-parallax-content-slider.php:502
+msgid "Only display posts of chosen categories"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:507
+#: ../wp-parallax-content-slider.php:507
+msgid "Categories to display"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:525
+#: ../wp-parallax-content-slider.php:525
+msgid "Categories to display (multiple selection). Empty selection will display all categories."
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:530
+#: ../wp-parallax-content-slider.php:530
+msgid "Slide title max length"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:533
+#: ../wp-parallax-content-slider.php:533
+msgid "Maximum number of characters to display in a dynamic slide title"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:538
+#: ../wp-parallax-content-slider.php:538
+msgid "Default image"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:541
+#: ../wp-parallax-content-slider.php:541
+msgid "Name of the default image to display for posts without thumbnail"
+msgstr ""
+
+#: C:\Users\julien.le.thuaut\Documents\EasyPHP-5.3.9\www\w3d\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:548
+#: ../wp-parallax-content-slider.php:548
+msgid "Save Changes"
+msgstr ""
+
